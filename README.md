@@ -1,0 +1,2 @@
+# my-gopath
+My GOPATH
