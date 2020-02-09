@@ -6,6 +6,6 @@ import (
 )
 
 func main() {
-	printer.Hello()
-	getcpunumber.PrintCPUNumber()
+	printer.Hello()               // from printer.Hello()
+	getcpunumber.PrintCPUNumber() // getcpunumber.PrintCPUNumber()
 }
