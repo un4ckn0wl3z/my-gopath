@@ -14,4 +14,7 @@ func main() {
 
 	fmt.Println(string([]byte{104, 105}))
 
+	area := 10.5
+	fmt.Println(area / 2)
+
 }
