@@ -15,7 +15,7 @@ func main() {
 		fmt.Printf("Cannot convert %q", a[1])
 	} else {
 		// all
-		fmt.Printf("%s * 2 = %d\n", a[1], n)
+		fmt.Printf("%s * 2 = %d\n", a[1], n*2)
 	}
 
 }
